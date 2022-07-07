@@ -23,7 +23,7 @@ pika==0.9.5
 python-dateutil==1.5
 python-memcached==1.47
 python-openid==2.2.5
-requests==0.8.9
+requests==2.20.0
 simplejson==2.3.2
 tweepy==2.0
 wsgiref==0.1.2
