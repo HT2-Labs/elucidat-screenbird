@@ -5,7 +5,7 @@ PIL==1.1.7
 South==0.7.3
 argparse==1.2.1
 boto==2.1.1
-certifi==0.0.8
+certifi==2022.12.7
 #django-chronograph==0.3.2.dev
 django-chronograph==0.3.1
 django-debug-toolbar==0.9.4
